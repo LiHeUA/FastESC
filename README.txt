@@ -5,7 +5,7 @@ This set of m-files demonstrates the FastESC clustering algorithm and the Extend
 "demoFastESC_EMNIST.m" shows FastESC on EMNIST-Digits dataset.
 
 "demo_BMM.m" shows the Basic Matrix Multiplication algorithm in
-P. Drineas, R. Kannan, and M. W. Mahoney, "Fast monte carlo algorithms for matrices i: Approximating matrix multiplication," SIAM Journal on Computing, vol. 36, no. 1, pp. 132¨C157, 2006.
+P. Drineas, R. Kannan, and M. W. Mahoney, "Fast monte carlo algorithms for matrices i: Approximating matrix multiplication," SIAM Journal on Computing, vol. 36, no. 1, pp. 132-157, 2006.
 
 "demo_EBMM.m" shows the Extended Basic Matrix Multiplication algorithm, or Algorithm 1 and Theorem 1 in [1].
 
