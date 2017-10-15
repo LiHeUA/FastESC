@@ -13,8 +13,6 @@ Run those demos in Matlab.
 
 Acknowledgment:
 
-The work described in the code was published in:
-
 [1] Li He, Nilanjan Ray and Hong Zhang, "Fast Large-Scale Spectral Clustering via Explicit Feature Mapping", submitted to IEEE Transactions on Cybernetics.
 
 Please cite this paper if you use the code to generate your results.
